@@ -2,7 +2,6 @@ import numpy as np
 import altair as alt
 import pandas as pd
 import streamlit as st
-from data_retrival import *
 import yfinance as yf
 import plotly.graph_objects as go
 
